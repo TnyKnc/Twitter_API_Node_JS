@@ -1,0 +1,15 @@
+{
+  "name": "twitter_api",
+  "version": "1.0.0",
+  "description": "bu proje node js üzerinden twitter kullanımını barındırmaktadır.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TnyKnc",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
